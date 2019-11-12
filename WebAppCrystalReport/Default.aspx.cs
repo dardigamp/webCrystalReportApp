@@ -24,6 +24,7 @@ namespace WebAppCrystalReport
                 }));
                 this.CrystalReportViewerAlumno.ReportSource = crp;
                 this.CrystalReportViewerAlumno.DataBind();
+
             //}
         }
     }
